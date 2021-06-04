@@ -6,8 +6,3 @@
 6. Quick Sort
 7. Heap Sort
 8. Binary Insertion Sort
-9. Tree Sort
-10. Quick Sort on Singly Linked List
-11. Quick Sort on Doubly Linked List
-12. Merge Sort for Linked List
-13. Merge Sort for Double Linked List
