@@ -16,12 +16,7 @@ while(1):
         5: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/mergeSort.py',
         6: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/quickSOrt.py',
         7: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/heapSort.py',
-        8: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/BIS.py',
-        9: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/treeSort.py',
-        10: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/QSSLL.py',
-        11: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/QSDLL.py',
-        12: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/MSLL.py',
-        13: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/MSDL.py'
+        8: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/BIS.py'
     }
     try:
         printed_data = link_to_repo[user_select1]
