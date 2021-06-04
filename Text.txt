@@ -1,4 +1,3 @@
-Hello there, here I will provide some algorithms:
 1. Linear Search
 2. Binary Search
 3. Bubble Sort
@@ -12,4 +11,3 @@ Hello there, here I will provide some algorithms:
 11. Quick Sort on Doubly Linked List
 12. Merge Sort for Linked List
 13. Merge Sort for Double Linked List
-
