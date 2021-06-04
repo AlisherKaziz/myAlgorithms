@@ -8,9 +8,19 @@ with open("Text.txt", "r") as file:
             break
 user_select = int(input())
 link_to_repo = {
-    1: 'https://github.com/AlisherKaziz/myAlgorithms/blob/ff43b8129a935fd044ffa1a50b2a89c889767c6b/linearSearch.py',
-    2: 'asdas',
-    3: 'adsdas'
+    1: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/linearSearch.py',
+    2: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/binarySearch.py',
+    3: 'https://github.com/AlisherKaziz/myAlgorithms/blob/master/listOfAlgorithms/bubbleSort.py',
+    4: '',
+    5: '',
+    6: '',
+    7: '',
+    8: '',
+    9: '',
+    10: '',
+    11: '',
+    12: '',
+    13: ''
 }
 try:
     printed_data = link_to_repo[user_select]
