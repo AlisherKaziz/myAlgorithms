@@ -1,4 +1,4 @@
-print("Hello there, here I will provide some algorithms:")
+print("Hello, here I will give a few algorithms I have written:")
 while(1):
     with open("Text.txt", "r") as file:
         line_counter = 0
